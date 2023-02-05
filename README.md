@@ -4,4 +4,4 @@
 - [x] Flask
 - [x] Pytube
 
-# You can try it on this replit: https://replit.com/@VLPPZ/Youtube-video-downloader
+# You can try it on this repl: https://replit.com/@VLPPZ/Youtube-video-downloader
